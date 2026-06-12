@@ -1,4 +1,5 @@
 Student Grade Calculator (Java)
+
 simple console-based Java project that calculates a student’s total marks, percentage, grade, and pass/fail status.
 This project is designed to strengthen understanding of loops, conditionals, input handling, and basic Java logic building.
 

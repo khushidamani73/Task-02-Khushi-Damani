@@ -46,12 +46,11 @@ Enter marks for Subject 2: 90
 Enter marks for Subject 3: 80
 
 ##  RESULT CARD
-
-**Student Name : Khushi
+Student Name : Khushi
 Total Marks : 255 / 300
 Percentage : 85.00%
 Grade : A
-Status : PASS**
+Status : PASS
 ---
 
 ##  Technologies Used

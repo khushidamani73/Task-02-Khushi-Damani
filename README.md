@@ -1,4 +1,4 @@
-# Task-01-Khushi Damani
+# Task-02-Khushi Damani
 #  Student Grade Calculator (Java)
 
 A simple console-based Java project that calculates a student’s total marks, percentage, grade, and pass/fail status.  

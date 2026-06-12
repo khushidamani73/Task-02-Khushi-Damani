@@ -34,8 +34,11 @@ This project is designed to strengthen understanding of loops, conditionals, inp
 ---
 
 ##  Sample Output
+
+
 STUDENT GRADE CALCULATOR
-Enter Student Name: Ali
+
+Enter Student Name : Ali
 Enter Number of Subjects: 3
 
 Enter marks for Subject 1: 85
@@ -43,12 +46,12 @@ Enter marks for Subject 2: 90
 Enter marks for Subject 3: 80
 
 RESULT CARD
+
 Student Name : Khushi
-Total Marks : 255/300
+Total Marks : 255 / 300
 Percentage : 85.00%
 Grade : A
 Status : PASS
-
 ---
 
 ##  Technologies Used

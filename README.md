@@ -45,7 +45,7 @@ Enter marks for Subject 1: 85
 Enter marks for Subject 2: 90
 Enter marks for Subject 3: 80
 
-RESULT CARD
+##  RESULT CARD
 
 Student Name : Khushi
 Total Marks : 255 / 300
